@@ -1,0 +1,14 @@
+E:\baitapwhile\bin\Debug\net8.0\baitapwhile.exe
+E:\baitapwhile\bin\Debug\net8.0\baitapwhile.deps.json
+E:\baitapwhile\bin\Debug\net8.0\baitapwhile.runtimeconfig.json
+E:\baitapwhile\bin\Debug\net8.0\baitapwhile.dll
+E:\baitapwhile\bin\Debug\net8.0\baitapwhile.pdb
+E:\baitapwhile\obj\Debug\net8.0\baitapwhile.GeneratedMSBuildEditorConfig.editorconfig
+E:\baitapwhile\obj\Debug\net8.0\baitapwhile.AssemblyInfoInputs.cache
+E:\baitapwhile\obj\Debug\net8.0\baitapwhile.AssemblyInfo.cs
+E:\baitapwhile\obj\Debug\net8.0\baitapwhile.csproj.CoreCompileInputs.cache
+E:\baitapwhile\obj\Debug\net8.0\baitapwhile.dll
+E:\baitapwhile\obj\Debug\net8.0\refint\baitapwhile.dll
+E:\baitapwhile\obj\Debug\net8.0\baitapwhile.pdb
+E:\baitapwhile\obj\Debug\net8.0\baitapwhile.genruntimeconfig.cache
+E:\baitapwhile\obj\Debug\net8.0\ref\baitapwhile.dll
